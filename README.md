@@ -21,7 +21,7 @@
 const abdurRahman = {
   role:        "Full-Stack Software Engineer",
   location:    "Chattogram, Bangladesh 🇧🇩",
-  currentWork: "Channel Partner Panel — API-driven student application platform",
+  currentWork: "Shabuj Global Education",
   stack: {
     backend:   ["PHP", "Laravel", "REST APIs", "MySQL"],
     frontend:  ["JavaScript", "Blade", "HTML5", "CSS3"],
