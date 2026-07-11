@@ -73,8 +73,10 @@ Junior Software Engineer at **Shabuj Global Education** (Whitechapel, England), 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdurRahman599&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahman599&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&text_color=c4b5fd" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRahman599&theme=midnight_purple" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRahman599&theme=midnight_purple" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurRahman599&theme=midnight_purple" height="160"/>
 
 <img src="https://streak-stats.demolab.com?user=AbdurRahman599&theme=midnight-purple&hide_border=true&background=0d0a1e&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
 
