@@ -1,113 +1,106 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abdur%20Rahman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=18" />
+<div align="center">
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/AbdurRahman599">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications;Laravel+%7C+JavaScript+%7C+REST+APIs;Clean+code.+Real+products.+Shipped." alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=160&section=header&text=Abdur%20Rahman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20Laravel%20%C2%B7%20Vue.js%20%C2%B7%20REST%20APIs&descAlignY=58&descSize=16" />
 
-<p align="center">
-  <a href="mailto:Rahman527386@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdur-rahman9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Chattogram,_Bangladesh-2ea44f?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=AbdurRahman599&color=36BCF7&style=flat-square&label=Profile+Views" />
-</p>
+<br/>
 
-## `> whoami`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Full-Stack+Software+Engineer;Laravel+%7C+Vue.js+%7C+REST+APIs;500%2B+LeetCode+Problems+Solved;Open+to+Work+%F0%9F%9A%80)](https://github.com/AbdurRahman599)
 
-```typescript
-const abdurRahman = {
-  role:        "Full-Stack Software Engineer",
-  location:    "Chattogram, Bangladesh 🇧🇩",
-  currentWork: "Shabuj Global Education",
-  stack: {
-    backend:   ["PHP", "Laravel", "REST APIs", "MySQL"],
-    frontend:  ["JavaScript", "Blade", "HTML5", "CSS3"],
-    exploring: ["Machine Learning", "AI-assisted development"],
-  },
-  philosophy:  "Write code humans can read; machines will figure it out.",
-};
-```
+<br/>
 
-## `> tech --stack`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdur--rahman9-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman9/)
+[![Gmail](https://img.shields.io/badge/Gmail-Rahman527386%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rahman527386@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdurRahman599-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdurRahman599)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://abdurrahman599.github.io)
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4 align="center">⚙️ Backend</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">🎨 Frontend</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">🧰 Tools & More</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,java,py&theme=dark" />
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
 
-## `> ls ./featured-projects`
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/AbdurRahman599/Ovenza">🛒 Ovenza</a></h4>
-      <p>Full-featured e-commerce web application built with Laravel — product catalog, cart, and order management.</p>
-      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/AbdurRahman599/House_Rental_Management_System">🏠 House Rental Management System</a></h4>
-      <p>Application for managing rental properties, tenants, and payment records.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/AbdurRahman599/News-Article-Share-Prediction">📈 News Article Share Prediction</a></h4>
-      <p>Machine learning model that predicts the virality of online news articles from content features.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /></p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/AbdurRahman599/Affix">⚡ Affix</a></h4>
-      <p>Front-end web project focused on dynamic, interactive UI.</p>
-      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
 
-## `> git stats --all`
+Junior Software Engineer at **Shabuj Global Education** (Whitechapel, England), building Laravel and Vue.js applications and REST APIs for education platforms. CS graduate from IIUC with a research background in machine learning and 500+ solved algorithmic problems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdurRahman599&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahman599&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" height="170" />
-</p>
+- 🔭 Currently working on a channel-partner and student-application platform
+- 🌱 Exploring machine learning and AI-assisted development
+- 📄 Published a peer-reviewed conference paper in ML
+- 📍 Based in Chattogram, Bangladesh
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdurRahman599&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" height="170" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRahman599&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="95%" />
-</p>
+## 🛠️ Tech Stack
 
-## `> contact --me`
+**Languages**
 
-<p align="center">
-  <a href="mailto:Rahman527386@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abdur-rahman9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/AbdurRahman599"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+![PHP](https://img.shields.io/badge/PHP-4c1d95?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4c1d95?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4c1d95?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4c1d95?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p align="center"><i>💡 Open to interesting projects and collaboration — let's build something.</i></p>
+**Backend**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+![Laravel](https://img.shields.io/badge/Laravel-6d28d9?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6d28d9?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-6d28d9?style=flat-square&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-7c3aed?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-7c3aed?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7c3aed?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat-square&logo=html5&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-8b5cf6?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8b5cf6?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Ovenza**](https://github.com/AbdurRahman599/Ovenza) | Bakery inventory system with OTP auth, real-time dashboard, invoicing | Laravel · MySQL · JS |
+| [**BigShop**](https://github.com/AbdurRahman599/bigshop) | E-commerce platform with cart, orders, REST API and admin dashboard | Laravel · Bootstrap · MySQL |
+| [**News Share Prediction**](https://github.com/AbdurRahman599/News-Article-Share-Prediction) | ML model predicting article virality using NLP features | Python · ML · NLP |
+| [**House Rental System**](https://github.com/AbdurRahman599/House_Rental_Management_System) | Rental property and tenant management application | Java |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdurRahman599&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahman599&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=a78bfa&text_color=c4b5fd" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=AbdurRahman599&theme=midnight-purple&hide_border=true&background=0d0a1e&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+**Junior Software Engineer** — Shabuj Global Education · Dec 2024 – Present
+> Building Laravel + Vue.js features for a channel-partner and student-application platform.
+
+**Undergraduate Researcher** — IIUC · Sep 2023 – Mar 2024
+> Machine learning research; published in a peer-reviewed conference.
+
+**Teaching Assistant** — IIUC · Jul 2022 – Jan 2023
+> Supported instruction in CS fundamentals, DSA, and programming labs.
+
+---
+
+## 🎓 Education
+
+**B.Sc in Computer Science & Engineering** — IIUC, 2019–2024 · CGPA 3.584 / 4.00
+
+Certifications: Web Development with PHP, Laravel & Vue.js (OSTAD) · Data Science Bootcamp (Python)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=90&section=footer" />
